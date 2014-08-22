@@ -1,1 +1,0 @@
-To look at the content of the fitness_final.html file, please click on  this link : http://htmlpreview.github.io/?https://github.com/bingoCo/assignment/blob/master/fitness_final.html and the content will be available, thanks.
